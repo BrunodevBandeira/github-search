@@ -24,11 +24,11 @@ Uma aplicação web para buscar perfis e repositórios do GitHub, construída co
 
 > Tela de busca
 
-![Search Page](https://placehold.co/860x420/061E47/68A4F1?text=GitHub+Search+—+Search+Page&font=montserrat)
+![Search Page](./screenshots/search.png)
 
 > Tela de resultados
 
-![Results Page](https://placehold.co/860x420/061E47/68A4F1?text=GitHub+Search+—+Results+Page&font=montserrat)
+![Results Page](./screenshots/results.png)
 
 ---
 
